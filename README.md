@@ -10,3 +10,5 @@ Since Nov. 2020 I am Assistant Team Leader of the Joomla! CMS Release Team and s
 
 If we do not implement exciting projects with Joomla, we build online shops with the OS ecommerce solution Shopware.  
 Feel free to contact or hire me. 
+
+![github stats](https://github-readme-stats.vercel.app/api?username=tecpromotion&show_icons=true&theme=vue)
