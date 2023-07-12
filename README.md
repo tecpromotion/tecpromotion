@@ -11,4 +11,5 @@ Since Nov. 2020 I am Assistant Team Leader of the Joomla! CMS Release Team and s
 If we do not implement exciting projects with Joomla, we build other things.  
 Feel free to contact or hire me. 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=tecpromotion&show_icons=true&theme=vue)
+[![github stats](https://github-readme-stats.vercel.app/api?username=tecpromotion&show_icons=true&theme=vue-dark)](https://github.com/tecpromotion/github-readme-stats)
+
