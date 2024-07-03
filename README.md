@@ -13,3 +13,4 @@ Feel free to contact or hire me.
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=tecpromotion&show_icons=true&theme=vue-dark)](https://github.com/tecpromotion/github-readme-stats)
 
+[![An image of @tecpromotion's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tecpromotion)](https://holopin.io/@tecpromotion)
